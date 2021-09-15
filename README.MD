@@ -24,10 +24,9 @@
 
 + 3.2.*、3.4.*、5.0.*
 
-## 工具下载
+## 工具安装
 
 ```shell
-登录公司 gitlib, 搜索 sdbtop ,下载 sdbtop.tar.gz 安装文件
 tar -zxvf sdbtop.tar.gz
 cd sdbtop
 ```
