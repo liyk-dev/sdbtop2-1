@@ -27,11 +27,11 @@
 ## 工具安装
 
 ```shell
-tar -zxvf sdbtop.tar.gz
-cd sdbtop
+tar -zxvf sdbtop2.tar.gz
+cd sdbtop2
 ```
 
-修改当前目录下的.conf配置文件，执行./sdbtop 即可使用
+修改当前目录下的.conf配置文件，执行./sdbtop2 即可使用
 
 ## 配置项
 
