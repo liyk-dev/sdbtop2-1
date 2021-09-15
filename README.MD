@@ -74,11 +74,13 @@ pg_passwd =
 ## 常用问题
 
 + 无法启动 sdbtop2
+
 如果出现以下错误，或页面字符错位，则需要按q退出，在终端执行：
 export TERM="xterm"
 ![image](https://user-images.githubusercontent.com/16267209/133355547-f9359b40-968f-428d-a5d9-c4167a129364.png)
 
 + 无法选中菜单项
+
 无法选中菜单项可以调整终端设置中的Terminal为xterm，并选中ANSI Color。
 
 ## 功能详情
