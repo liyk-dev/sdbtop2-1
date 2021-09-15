@@ -46,7 +46,7 @@ cluster_name = Test
 # 协调节点地址，可配置多个，以逗号分隔
 cluster_coord = 127.0.0.1:11810
 cluster_user = sdbadmin
-cluster_passwd = sdbadmin
+cluster_passwd = 
 ```
 
 MySQL 连接配置(如果没安装mysql，可删除此处配置)
@@ -57,7 +57,7 @@ MySQL 连接配置(如果没安装mysql，可删除此处配置)
 mysql_hosts = sdb
 mysql_port = 3306
 mysql_user = root
-mysql_passwd = root
+mysql_passwd = 
 ```
 
 PostgreSQL 连接配置(如果没安装postgresql，可删除此处配置)
@@ -68,7 +68,7 @@ PostgreSQL 连接配置(如果没安装postgresql，可删除此处配置)
 pg_hosts = sdb
 pg_port = 5432
 pg_user = sdbadmin
-pg_passwd = sdbadmin
+pg_passwd = 
 ```
 
 ## 常用问题
