@@ -70,7 +70,7 @@ pg_user = sdbadmin
 pg_passwd = 
 ```
 
-## 常用问题
+## 常见问题
 
 + 无法启动 sdbtop2
 
